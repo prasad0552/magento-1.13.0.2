@@ -10,3 +10,8 @@ patching file app/code/core/Mage/Cms/Helper/Wysiwyg/Images.php
 patching file app/code/core/Mage/Cms/Model/Wysiwyg/Images/Storage.php
 
 
+2015-07-07 22:51:45 UTC | SUPEE-1533 | EE_1.13 | v1 | _ | n/a | SUPEE-1533_EE_1.13_v1.patch
+patching file app/code/core/Mage/Adminhtml/Block/Dashboard/Graph.php
+patching file app/code/core/Mage/Adminhtml/controllers/DashboardController.php
+
+
