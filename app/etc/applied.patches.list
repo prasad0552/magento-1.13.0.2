@@ -5,7 +5,3 @@ Hunk #1 succeeded at 697 (offset 29 lines).
 Hunk #2 succeeded at 879 (offset 29 lines).
 
 
-2015-07-07 22:05:51 UTC | SUPEE-2518 | EE_1.13.0.2 | v1 | e6f2d2354843b1ca69988a44de1761ce180e746c | Thu Nov 21 12:44:53 2013 +0200 | v1.13.0.2..SUPEE-2518
-patching file app/code/core/Mage/Cms/Helper/Wysiwyg/Images.php
-
-
